@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "export NODE_ENV='prod' && node index.js",
+    "deployGuild": "export DEPLOY='guild' && node scripts/deploy-commands.js",
+    "deployGlobal": "export DEPLOY='global' && node scripts/deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}

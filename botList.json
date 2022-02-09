@@ -1,0 +1,65 @@
+[
+  {
+    "name": "MEE6",
+    "description": "Configure moderation, leveling, Twitch alerts, and much more with the most easy-to-use dashboard!",
+    "help": "help",
+    "homepage": "https://mee6.xyz",
+    "inviteLink": "https://mee6.xyz/dashboard"
+  },
+  {
+    "name": "CaptchaBot",
+    "description": "Account verification for your Discord server done right.",
+    "help": "/help",
+    "homepage": "https://captcha.bot/",
+    "inviteLink": "https://discord.com/oauth2/authorize?client_id=512333785338216465&scope=bot%20applications.commands&permissions=268561430&redirect_uri=https://captcha.bot/support&response_type=code"
+  },
+  {
+    "name": "GiveAwayBot",
+    "description": "Hold giveaways on your Discord server quickly and easily!",
+    "help": "!ghelp",
+    "homepage": "https://giveawaybot.party/",
+    "inviteLink": "https://discord.com/oauth2/authorize?permissions=347200&scope=bot+applications.commands&client_id=294882584201003009&redirect_uri=https%3A%2F%2Fgiveawaybot.party%2Fthanks&response_type=code"
+  },
+  {
+    "name": "Craig",
+    "description": "multi-track voice channel recording bot for Discord",
+    "help": "none",
+    "homepage": "https://craig.chat",
+    "inviteLink": "https://discordapp.com/oauth2/authorize?client_id=272937604339466240&scope=bot%20applications.commands"
+  },
+  {
+    "name": "sesh",
+    "description": "The Best Calendar Bot For Discord",
+    "help": "@sesh help",
+    "homepage": "https://sesh.fyi/",
+    "inviteLink": "https://discord.com/oauth2/authorize?client_id=616754792965865495&permissions=397620538432&scope=bot"
+  },
+  {
+    "name": "statbot",
+    "description": "Statbot is the server stats bot you need to build the best communities!",
+    "help": "s?help",
+    "homepage": "https://statbot.net/",
+    "inviteLink": "https://discord.com/oauth2/authorize?client_id=491769129318088714&scope=bot&permissions=270126169"
+  },
+  {
+    "name": "guild",
+    "description": "Token gating Discord roles and channels",
+    "help": "none",
+    "homepage": "https://alpha.guild.xyz/",
+    "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=868172385000509460&permissions=8&scope=bot%20applications.commands"
+  },
+  {
+    "name": "translator",
+    "description": "The most powerful Discord translation bot.",
+    "help": "-t help",
+    "homepage": "https://translator.nvu.io/",
+    "inviteLink": "https://discord.com/oauth2/authorize?client_id=360081866461806595&permissions=260654496848&scope=bot%20applications.commands"
+  },
+  {
+    "name": "gm",
+    "description": "Counts user gm streaks",
+    "help": "!gm help",
+    "homepage": "https://gm-jigglyjams.vercel.app/",
+    "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=893356893865644083&permissions=85056&scope=bot"
+  }
+]
